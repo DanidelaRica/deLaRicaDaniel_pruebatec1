@@ -1,0 +1,9 @@
+com\mycompany\pruebatecnica1jpa\logica\Empleado.class
+com\mycompany\pruebatecnica1jpa\PruebaTecnica1JPA.class
+com\mycompany\pruebatecnica1jpa\persistencia\exceptions\PreexistingEntityException.class
+com\mycompany\pruebatecnica1jpa\persistencia\ControladoraPersistencia.class
+com\mycompany\pruebatecnica1jpa\persistencia\exceptions\IllegalOrphanException.class
+com\mycompany\pruebatecnica1jpa\persistencia\EmpleadoJpaController.class
+com\mycompany\pruebatecnica1jpa\persistencia\exceptions\NonexistentEntityException.class
+com\mycompany\pruebatecnica1jpa\logica\Controladora.class
+com\mycompany\pruebatecnica1jpa\logica\Empleado_.class
